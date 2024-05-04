@@ -15,7 +15,7 @@ process.
 
 ### **Table of Contents**
 
-- [Content of the repository](#Content-of-the-repository)
+- [Content of the repository](#content-of-the-repository)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to use the project](#how-to-use-the-project)
 - [Contributions](#Contributions)
