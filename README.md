@@ -25,7 +25,7 @@ process.
 ### **Content of the repository**  🔡
 
 1. main.py
-2. main.ipynb
+2. notebook.ipynb
 3. requirements.txt
 4. .gitignore
 3. README.md
