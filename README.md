@@ -38,10 +38,9 @@ main.py file.
 
 ### **How to use the project**  📂
 
-You need to download the "train.csv" file from here:
+You need to download the "medical_insurance.csv" file from here:
 
-https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv
-
+https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data
 
 ### **Contributions**  ✍️
 
