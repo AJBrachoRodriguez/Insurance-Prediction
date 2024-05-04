@@ -25,8 +25,9 @@ process.
 ### **Content of the repository**  🔡
 
 1. main.py
-2. requirements.txt
-3. .gitignore
+2. main.ipynb
+3. requirements.txt
+4. .gitignore
 3. README.md
 
 ### **How to Install and Run the Project**  🏃
