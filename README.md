@@ -1,5 +1,5 @@
 # **Medical insurance prediction costs**
-![database with api](img/insurance.png)
+![database with api](img/insurance.jpg)
 
 ### **Description**
 
